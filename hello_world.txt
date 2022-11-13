@@ -1,1 +1,4 @@
 Hello word! This is my first experience with Git
+
+# 2nd Edit:
+I edited this file early in the morning today to add a particular feature
